@@ -49,7 +49,6 @@ capture.set(4, Cam_Height)
 
 
 imgList = os.listdir("num_imgs")
-print(imgList)
 camList =[]
 
 for eachimage in imgList:
